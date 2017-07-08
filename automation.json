@@ -1,0 +1,199 @@
+{
+  "name": "Automation",
+  "children":
+  [
+    {
+      "name": "Web Apps",
+      "children":
+                  [
+                    {
+                      "name": "BPM",
+                      "children":
+                                  [
+                                    {"name": "User Attributes", "ID": "1.1.1", "size":540},
+                                    {"name": "Inboxes Definition", "ID": "1.1.2", "size":140},
+                                    {"name": "Adjudication Routing", "ID": "1.1.3", "size":120},
+                                    {"name": "Out of the box features", "ID": "1.1.4", "size":20},
+                                    {"name": "Claim Search", "ID": "1.1.5", "size":180},
+                                    {"name": "Batch Search", "ID": "1.1.6", "size":250}
+                                  ]
+                    },
+                    {
+                      "name": "CiTiZen",
+                      "children":
+                                  [
+                                    {"name": "Claims Submission", "ID": "1.2.1", "size":200},
+                                    {"name": "Categorisation and Registration", "ID": "1.2.2", "size":100},
+                                    {"name": "Claims Reactivation - Link to Existing", "ID": "1.2.3", "size":40},
+                                    {"name": "Batch Upload", "ID": "1.2.4", "size":10},
+                                    {"name": "Data Entry", "ID": "1.2.5", "size":15},
+                                    {"name": "Adjudication", "ID": "1.2.6", "size":400},
+                                    {"name": "Release Authorisation", "ID": "1.2.7", "size":40},
+                                    {"name": "Release Management", "ID": "1.2.8", "size":20},
+                                    {"name": "Organization Risk Unit - Fraud", "ID": "1.2.9", "size":100},
+                                    {
+                                      "name": "Citi Connect",
+                                      "children":
+                                                  [
+                                                    {"name": "Worldlink USD", "ID": "1.2.10.1", "size":500},
+                                                    {"name": "Worldlink HKD", "ID": "1.2.10.2", "size":500}
+                                                  ]
+                                    },
+                                    {
+                                      "name": "Citi Direct",
+                                      "children":
+                                                  [
+                                                    {"name": "Qatar Paylink", "ID": "1.2.11.1", "size":500},
+                                                    {"name": "Dubai Check", "ID": "1.2.11.2", "size":500},
+                                                    {"name": "Worldlink Bank Transfer", "ID": "1.2.11.3", "size":500},
+                                                    {"name": "Citi Connect", "ID": "1.2.11.4", "size":500}
+                                                  ]
+                                    },
+                                    {
+                                      "name": "Data Feeds",
+                                      "children":
+                                                  [
+                                                    {"name": "Healthcode", "ID": "1.2.12.1", "size":500},
+                                                    {"name": "Olympus", "ID": "1.2.12.2", "size":500},
+                                                    {"name": "eClaims", "ID": "1.2.12.3", "size":500}
+                                                  ]
+                                    },
+                                    {"name": "Supplemental Claims", "ID": "1.2.12", "size":1000}
+                                  ]
+                    },
+                    {
+                      "name": "Quote and Buy",
+                      "children":
+                                  [
+                                    {"name": "Quote", "ID": "1.3.1", "size":20},
+                                    {"name": "Buy", "ID": "1.3.2", "size":40},
+                                    {"name": "Confirmation", "ID": "1.3.3", "size":40}
+                                  ]
+                    },
+                    {
+                      "name": "Carnival Cruise",
+                      "children":
+                                  [
+                                    {"name": "Quote", "ID": "1.4.1", "size":20},
+                                    {"name": "Buy", "ID": "1.4.2", "size":40},
+                                    {"name": "Confirmation", "ID": "1.4.3", "size":40}
+                                  ]
+                    },
+                    {
+                      "name": "Provider Portal",
+                      "children":
+                                  [
+                                    {"name": "Login", "ID": "1.5.1", "size":20},
+                                    {"name": "Batch Summary", "ID": "1.5.2", "size":40},
+                                    {"name": "Invoice Details", "ID": "1.5.3", "size":40},
+                                    {"name": "Notification", "ID": "1.5.4", "size":40},
+                                    {"name": "Contact FAQ", "ID": "1.5.5", "size":40},
+                                    {"name": "Batch Submission", "ID": "1.5.6", "size":40}
+                                  ]
+                    },
+                    {
+                      "name": "Online Services",
+                      "children":
+                                  [
+                                    {"name": "Login", "ID": "1.6.1", "size":20},
+                                    {"name": "Registration", "ID": "1.6.2", "size":40},
+                                    {"name": "Membership Card", "ID": "1.6.3", "size":40},
+                                    {"name": "Policy Docs", "ID": "1.6.4", "size":40}
+                                  ]
+                    },
+                    {
+                      "name": "HQS",
+                      "children":
+                                  [
+                                    {"name": "Login", "ID": "1.7.1", "size":30},
+                                    {"name": "Registration", "ID": "1.7.2", "size":70}
+                                  ]
+                    },
+                    {
+                      "name": "Treatment Guarantee",
+                      "children":
+                                  [
+                                    {"name": "Login", "ID": "1.8.1", "size":90},
+                                    {"name": "Registration", "ID": "1.8.2", "size":60}
+                                  ]
+                    },
+                    {
+                      "name": "MBR",
+                      "children":
+                                  [
+                                    {"name": "Login", "ID": "1.9.1", "size":20},
+                                    {"name": "Registration", "ID": "1.9.2", "size":20}
+                                  ]
+                    },
+                    {
+                      "name": "Other",
+                      "children":
+                                  [
+                                    {"name": "Login", "ID": "1.10.1", "size":120},
+                                    {"name": "Registration", "ID": "1.10.2", "size":140}
+                                  ]
+                    }
+                  ]
+    },
+    {
+      "name": "Mobile",
+      "children":
+                    [
+                      {
+                        "name": "My Health",
+                        "children":
+                                    [
+                                      {"name": "Login", "ID": "2.1.1", "size":20},
+                                      {"name": "Registration", "ID": "2.1.2", "size":40},
+                                      {"name": "Membership Card", "ID": "2.1.3", "size":40},
+                                      {"name": "Policy Docs", "ID": "2.1.4", "size":40}
+                                    ]
+                      },
+                      {
+                        "name": "Aussie Health",
+                        "children":
+                                    [
+                                      {"name": "Login", "ID": "2.2.1", "size":20},
+                                      {"name": "Registration", "ID": "2.2.2", "size":40},
+                                      {"name": "Membership Card", "ID": "2.2.3", "size":40},
+                                      {"name": "Policy Docs", "ID": "2.2.4", "size":40}
+                                    ]
+                      }
+                    ]
+    },
+    {
+      "name": "Desktop",
+      "children":
+                    [
+                      {
+                        "name": "Gulliver",
+                        "children":
+                                    [
+                                      {"name": "Person Maintenance", "ID": "3.1.1", "size":200},
+                                      {"name": "Policy Creation", "ID": "3.1.2", "size":400},
+                                      {"name": "Institution Maintenance", "ID": "3.1.3", "size":150},
+                                      {"name": "Group Agreement", "ID": "3.1.4", "size":200},
+                                      {"name": "Business Group Maintenance", "ID": "3.1.5", "size":50},
+                                      {"name": "Broker Maintenance", "ID": "3.1.6", "size":70},
+                                      {"name": "Gobal Ledger Extract - GLE", "ID": "3.1.7", "size":300},
+                                      {"name": "Insurance Premium Tax - IPT", "ID": "3.1.8", "size":200},
+                                      {"name": "Cash Allocation", "ID": "3.1.9", "size":140},
+                                      {"name": "Reinsurance Contact Management", "ID": "3.1.10", "size":240},
+                                      {"name": "New Ledger", "ID": "3.1.11", "size":80},
+                                      {"name": "Premium Reports - AZF mappings", "ID": "3.1.12", "size":140}
+                                    ]
+                      },
+                      {
+                        "name": "ABS",
+                        "children":
+                                    [
+                                      {"name": "Annuities", "ID": "3.2.1", "size":40},
+                                      {"name": "Indexation", "ID": "3.2.2", "size":40},
+                                      {"name": "Back Channel", "ID": "3.2.3", "size":40},
+                                      {"name": "Treaties", "ID": "3.2.4", "size":40}
+                                    ]
+                      }
+                    ]
+    }
+  ]
+}
